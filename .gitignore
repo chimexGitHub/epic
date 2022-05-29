@@ -1,0 +1,15 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
+hardhat.config.js
+
+
+#STAGING_ALCHEMY_KEY='https://eth-rinkeby.alchemyapi.io/v2/vReJyO-7Sa3_vGcRUI5-kR6GGusJWvWd'
+#PROD_ALCHEMY_KEY='vReJyO-7Sa3_vGcRUI5-kR6GGusJWvWd'
+#PRIVATE_KEY='417fcd400dc2af4b22c26909e601826a9ee8bff0a40846397f1002b4e15258cd'
